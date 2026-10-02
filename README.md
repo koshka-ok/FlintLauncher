@@ -19,7 +19,7 @@
 
 ---
 
-## ⚠️ Legal Disclaimer
+## ⚠️ Legal Disclaimer 
 
 > **FlintLauncher is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft in any way.**
 >
